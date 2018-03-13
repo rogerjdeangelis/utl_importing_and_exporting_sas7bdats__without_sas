@@ -23,15 +23,17 @@ Importing and exporting SAS7BDATs without SAS. Keywords: sas sql join merge big 
           6. Carolina
           7. SPSS
           8. DSREAD
+          9. CozyRoc
 
       Write SAS7BDAT
 
           1. R  (open source - under development -failes)
           2. StatTransfer
-          3. WPS (free express edition - has nor limit on the size od SAS datasets created by R or Python?)
+          3. WPS (free express edition - no limit on the size od SAS datasets created by R or Python?)
           4. DBMS Copy
           5. Carolina  (uses JDBC?)
           6. SPSS
+          7. CozyRoc
 
 
     Work is progressing in R to create SAS datasets.
