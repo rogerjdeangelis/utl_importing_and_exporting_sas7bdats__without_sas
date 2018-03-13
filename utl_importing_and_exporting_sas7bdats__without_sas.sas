@@ -17,6 +17,7 @@ https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-
       6. Carolina
       7. SPSS
       8. DSREAD
+      9. CozyRoc
 
   Write SAS7BDAT
 
@@ -26,6 +27,7 @@ https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-
       4. DBMS Copy
       5. Carolina  (uses JDBC?)
       6. SPSS
+      7. CozyRoc
 
 
 Work is progressing in R to create SAS datasets.
