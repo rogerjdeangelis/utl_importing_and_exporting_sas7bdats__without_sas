@@ -41,6 +41,8 @@ https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-
       5. Carolina  (uses JDBC?) $495
       6. SPSS  ($100 per month for desltop/)
       7. CozyRoc ($4,000 server license perpetual)
+       8. Colectica for excel ($49 import sas7bdat to excel)
+         https://secure.colectica.com/purchase/colectica-for-excel-professional
 
 
 Work stopped in R to create SAS datasets (for now?).
