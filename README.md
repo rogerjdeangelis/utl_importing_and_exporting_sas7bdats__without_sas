@@ -43,6 +43,8 @@
           5. Carolina  (uses JDBC?) $495
           6. SPSS  ($100 per month for desltop/)
           7. CozyRoc ($4,000 server license perpetual)
+          8. Colectica for excel ($49 import sas7bdat to excel)
+             https://secure.colectica.com/purchase/colectica-for-excel-professional
 
 
     Work stopped in R to create SAS datasets (for now?).
@@ -54,6 +56,7 @@
     1. read_sas() reads .sas7bdat + .sas7bcat files
     2. read_xpt() reads SAS transport files (version 5 and version 8).
     3. write_sas() writes .sas7bdat(fails) files.
+    4. 
 
     Importing and Exporting V5 and V8 transport files
 
