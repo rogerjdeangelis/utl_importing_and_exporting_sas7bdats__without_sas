@@ -46,6 +46,9 @@
           6. SPSS  ($100 per month for desltop/)
           7. CozyRoc ($4,000 server license perpetual)
           
+          SASPY has a df2sd funtion, however it will not work without SAS installed. You cannot get the python source code and
+          it mau only create a weird CSV? that sas coverts to sas dataset.
+          
 
 
     Work stopped in R to create SAS datasets (for now?).
@@ -57,7 +60,7 @@
     1. read_sas() reads .sas7bdat + .sas7bcat files
     2. read_xpt() reads SAS transport files (version 5 and version 8).
     3. write_sas() writes .sas7bdat(fails) files.
-    4. 
+     
 
     Importing and Exporting V5 and V8 transport files
 
