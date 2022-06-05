@@ -23,14 +23,16 @@
 
           1. R       (open source)
           2. Python  (open source)
-          3. WPS (free express edition - has nor limit on the size od SAS datasets created by R)
+          3. WPS (free express edition - has nor limit on the size of SAS datasets created by R)
           4. StatTransfer (SAS owns)
           5. DBMS Copy
           6. Carolina  (Dulles software)
           7. SPSS
           8. DSREAD (can creates CSV files)
           9. CozyRoc
-
+          10. Colectica for excel ($49 import sas7bdat to excel)
+             https://secure.colectica.com/purchase/colectica-for-excel-professional
+             
       Write SAS7BDAT
 
           1. R  (open source - under development -fails )
@@ -43,8 +45,7 @@
           5. Carolina  (uses JDBC?) $495
           6. SPSS  ($100 per month for desltop/)
           7. CozyRoc ($4,000 server license perpetual)
-          8. Colectica for excel ($49 import sas7bdat to excel)
-             https://secure.colectica.com/purchase/colectica-for-excel-professional
+          
 
 
     Work stopped in R to create SAS datasets (for now?).
