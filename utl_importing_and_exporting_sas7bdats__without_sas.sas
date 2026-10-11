@@ -15,12 +15,10 @@ https://github.com/rogerjdeangelis/utl_wps_python_read_write_sas_tables
 
 see
 https://goo.gl/uqrg8a
-https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-any-SAS-installation-in-net-4-6/m-p/389054
-
- 
+https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-any-SAS-installation-in-net-4-6/m-p/389054 
           
-          SASPY has a df2sd funtion, however it will not work without SAS installed. You cannot get the python source code and
-          it mau only create a weird CSV>
+ SASPY has a df2sd funtion, however it will not work without SAS installed. You cannot get the python source code and
+  it mau only create a weird CSV>
 
 
 Work stopped in R to create SAS datasets (for now?).
