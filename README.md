@@ -19,32 +19,7 @@
     https://goo.gl/uqrg8a
     https://communities.sas.com/t5/SAS-in-Health-Care-Related/Read-SAS-file-without-any-SAS-installation-in-net-4-6/m-p/389054
 
-      Read SAS7BDAT
-
-          1. R       (open source)
-          2. Python  (open source)
-          3. WPS (free express edition - has nor limit on the size of SAS datasets created by R)
-          4. StatTransfer (SAS owns)
-          5. DBMS Copy
-          6. Carolina  (Dulles software)
-          7. SPSS
-          8. DSREAD (can creates CSV files)
-          9. CozyRoc
-          10. Colectica for excel ($49 import sas7bdat to excel)
-             https://secure.colectica.com/purchase/colectica-for-excel-professional
-             
-      Write SAS7BDAT
-
-          1. R  (open source - under development -fails )
-          2. StatTransfer ($350 Business Perpetual)
-          3. WPS (free express edition - no limit on the size od SAS datasets created by R or Python? ~$1500 per year)
-          4. DBMS Copy (SAS bought it out and shut it down?, Several universites are granfathered in and
-             studenst can get it for $25?)
-             The grandfater issue is interesting. Can you transfer the software to someone else after you graduate.
-             However I believe some of the licenses stipulate that you can only use it ON CAMPUS?(weird)
-          5. Carolina  (uses JDBC?) $495
-          6. SPSS  ($100 per month for desltop/)
-          7. CozyRoc ($4,000 server license perpetual)
+ 
           
           SASPY has a df2sd funtion, however it will not work without SAS installed. You cannot get the python source code and
           it mau only create a weird CSV? that sas coverts to sas dataset.
@@ -55,7 +30,36 @@
 
     https://github.com/tidyverse/haven
 
-    R
+    Read SAS7BDAT
+
+      1. R       (open source)
+      2. Python  (open source)
+      3. WPS (free express edition - has no limit on the size of SAS datasets created by R Mo long available)
+      4. StatTransfer (SAS owns)
+      5. DBMS Copy
+      6. Carolina  (Dulles software)
+      7. SPSS
+      8. DSREAD (can creates CSV files)
+      9. CozyRoc
+      10. Colectica for excel ($49 import sas7bdat to excel)
+          https://secure.colectica.com/purchase/colectica-for-excel-professional
+      11. Altair/Siemens SLC
+      12  Jenner Analytics
+
+  Write SAS7BDAT
+
+      1. R  (open source - under development -fails )
+      2. StatTransfer ($350 Business Perpetual)
+      3. WPS (free express edition - no longer available)
+      4. DBMS Copy (SAS bought it out and shut it down?, Several universities are grandfathered in and
+         students can get it for $25?)
+         The grandfather issue is interesting. Can you transfer the software to someone else after you graduate?
+         However, I believe some of the licenses stipulate that you can only use it ON CAMPUS?(weird)
+      5. Carolina  (uses JDBC?) $495
+      6. SPSS  ($100 per month for desktop?)
+      7. CozyRoc ($4,000 server license perpetual?)
+      8. Altair/Siemens SLC
+      9. Jenner Analytics
 
     1. read_sas() reads .sas7bdat + .sas7bcat files
     2. read_xpt() reads SAS transport files (version 5 and version 8).
